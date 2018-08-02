@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 1st, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jason Merry
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Coding an app that is a database for movies.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jpm17e.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using JSON
+2. Using an API to link movies
+3. Using an Ajax
